@@ -65,7 +65,7 @@
 	</p>
 	<p>
 		<a href="https://github.com/hichain/web_apps">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=hichain&repo=web_apps" alt="logo">
+			Source Code
 		</a>
 	</p>
 	<p>
