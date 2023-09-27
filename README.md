@@ -87,7 +87,9 @@
 		</a>
 	</p>
 	<p>
-		The repository is private.
+		<a href="https://github.com/kiito1000/my-resynq">
+			Source Code (Forked)
+		</a>
 	</p>
 	<p>
 		<img alt="TypeScript 5"
